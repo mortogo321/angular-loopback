@@ -1,5 +1,5 @@
 # angular-loopback
-The demo of [angular](https://angular.io/) and [loopback (3.x)](https://loopback.io) with [mongodb](https://www.mongodb.com/)
+The demo of [angular](https://angular.io/) and [loopback v4](http://v4.loopback.io/) with [mongodb](https://www.mongodb.com/)
 
 ### installation
 ##### loopback
